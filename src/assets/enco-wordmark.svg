@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3080" height="1080" viewBox="0 0 154 54" role="img" aria-labelledby="logo-title logo-description" shape-rendering="crispEdges">
+  <title id="logo-title">enco</title>
+  <desc id="logo-description">A blue-to-purple pixel-art phone, star and orbit, followed by the black enco wordmark.</desc>
+  <g id="enco-logo" fill-rule="evenodd">
+    <g id="icon" transform="translate(6 6)">
+      <g id="phone-frame">
+        <path id="phone-frame-tone-1" fill="#0099FF" d="M15 5 H16 V6 H15 Z M14 7 H15 V21 H14 V27 H11 V23 H12 V18 H13 V12 H14 Z M10 35 H14 V36 H13 V38 H11 V36 H10 Z" />
+        <path id="phone-frame-tone-2" fill="#0891FF" d="M17 1 H18 V2 H17 Z M16 2 H17 V14 H16 V20 H15 V6 H16 V5 H15 V3 H16 Z M14 21 H15 V25 H14 Z M13 36 H15 V39 H13 Z" />
+        <path id="phone-frame-tone-3" fill="#0F8AFF" d="M18 0 H19 V1 H20 V3 H19 V5 H18 V9 H17 V2 H18 Z M15 36 H17 V40 H16 V39 H15 Z" />
+        <path id="phone-frame-tone-4" fill="#1782FF" d="M19 0 H22 V3 H20 V1 H19 Z M19 3 H20 V4 H19 Z M17 36 H18 V37 H19 V40 H17 Z" />
+        <path id="phone-frame-tone-5" fill="#1F7AFF" d="M22 0 H23 V3 H24 V4 H22 Z M19 37 H21 V40 H19 Z" />
+        <path id="phone-frame-tone-6" fill="#2673FF" d="M23 0 H24 V1 H25 V4 H24 V3 H23 Z M21 37 H23 V41 H21 Z" />
+        <path id="phone-frame-tone-7" fill="#2E6BFF" d="M25 1 H27 V4 H25 Z M23 38 H25 V41 H23 Z" />
+        <path id="phone-frame-tone-8" fill="#3B62FB" d="M27 1 H29 V5 H27 Z M25 38 H27 V42 H26 V41 H25 Z" />
+        <path id="phone-frame-tone-9" fill="#4859F7" d="M29 2 H31 V5 H29 Z M27 38 H28 V39 H29 V42 H27 Z" />
+        <path id="phone-frame-tone-10" fill="#5450F4" d="M31 2 H33 V6 H32 V5 H31 Z M30 38 H31 V41 H30 V42 H29 V39 H30 Z" />
+        <path id="phone-frame-tone-11" fill="#6147F0" d="M33 2 H34 V3 H35 V6 H33 Z M32 33 H33 V41 H32 V42 H30 V41 H31 V37 H32 Z" />
+        <path id="phone-frame-tone-12" fill="#6E3EEC" d="M35 3 H37 V7 H36 V6 H35 Z M35 17 H36 V24 H34 V23 H35 Z M33 31 H35 V39 H34 V40 H33 Z" />
+        <path id="phone-frame-tone-13" fill="#7B35E8" d="M37 4 H39 V6 H40 V14 H39 V19 H38 V23 H36 V12 H37 Z M35 31 H36 V35 H35 Z" />
+      </g>
+      <g id="speaker">
+        <path id="speaker-tone-2" fill="#0891FF" d="M24 7 H25 V8 H24 Z" />
+        <path id="speaker-tone-3" fill="#0F8AFF" d="M25 8 H26 V9 H25 Z" />
+        <path id="speaker-tone-4" fill="#1782FF" d="M25 7 H26 V8 H25 Z" />
+        <path id="speaker-tone-5" fill="#1F7AFF" d="M26 8 H27 V9 H26 Z" />
+        <path id="speaker-tone-6" fill="#2673FF" d="M26 7 H27 V8 H26 Z" />
+        <path id="speaker-tone-7" fill="#2E6BFF" d="M27 8 H28 V9 H27 Z" />
+        <path id="speaker-tone-8" fill="#3B62FB" d="M27 7 H28 V8 H27 Z" />
+        <path id="speaker-tone-9" fill="#4859F7" d="M28 7 H29 V10 H28 Z" />
+        <path id="speaker-tone-10" fill="#5450F4" d="M29 9 H30 V10 H29 Z" />
+        <path id="speaker-tone-11" fill="#6147F0" d="M29 8 H30 V9 H29 Z" />
+        <path id="speaker-tone-12" fill="#6E3EEC" d="M30 8 H31 V9 H30 Z" />
+      </g>
+      <g id="star">
+        <path id="star-tone-4" fill="#1782FF" d="M22 18 H23 V21 H22 V20 H20 V19 H22 Z" />
+        <path id="star-tone-5" fill="#1F7AFF" d="M23 18 H24 V21 H23 Z" />
+        <path id="star-tone-6" fill="#2673FF" d="M24 17 H25 V21 H26 V22 H27 V23 H26 V25 H25 V23 H24 Z" />
+        <path id="star-tone-7" fill="#2E6BFF" d="M24 16 H25 V17 H24 Z M25 17 H26 V21 H25 Z M26 21 H27 V22 H26 Z" />
+        <path id="star-tone-8" fill="#3B62FB" d="M25 14 H26 V16 H27 V20 H28 V21 H26 V17 H25 Z" />
+        <path id="star-tone-9" fill="#4859F7" d="M27 18 H28 V20 H27 Z" />
+        <path id="star-tone-10" fill="#5450F4" d="M28 19 H31 V20 H29 V21 H28 Z" />
+        <path id="star-tone-11" fill="#6147F0" d="M28 18 H29 V19 H28 Z" />
+      </g>
+      <g id="orbit">
+        <path id="orbit-tone-1" fill="#0099FF" d="M1 27 H3 V29 H4 V31 H5 V33 H6 V35 H3 V34 H1 V33 H0 V29 H1 Z" />
+        <path id="orbit-tone-2" fill="#0891FF" d="M4 24 H6 V25 H5 V26 H4 V29 H3 V27 H2 V26 H3 V25 H4 Z M4 30 H6 V31 H9 V34 H10 V35 H9 V36 H7 V35 H6 V33 H5 V31 H4 Z" />
+        <path id="orbit-tone-3" fill="#0F8AFF" d="M6 22 H9 V23 H7 V24 H5 V23 H6 Z M9 31 H13 V33 H14 V35 H10 V34 H9 Z" />
+        <path id="orbit-tone-4" fill="#1782FF" d="M14 30 H17 V32 H18 V34 H16 V35 H14 V33 H13 V31 H14 Z" />
+        <path id="orbit-tone-5" fill="#1F7AFF" d="M19 29 H21 V34 H18 V32 H17 V30 H19 Z" />
+        <path id="orbit-tone-6" fill="#2673FF" d="M23 28 H24 V30 H25 V32 H24 V33 H21 V29 H23 Z" />
+        <path id="orbit-tone-7" fill="#2E6BFF" d="M26 27 H28 V29 H29 V31 H27 V32 H25 V30 H24 V28 H26 Z" />
+        <path id="orbit-tone-8" fill="#3B62FB" d="M29 26 H32 V30 H29 V29 H28 V27 H29 Z" />
+        <path id="orbit-tone-9" fill="#4859F7" d="M34 24 H35 V26 H36 V28 H34 V29 H32 V25 H34 Z" />
+        <path id="orbit-tone-10" fill="#5450F4" d="M36 23 H38 V24 H39 V26 H38 V27 H36 V26 H35 V24 H36 Z" />
+        <path id="orbit-tone-11" fill="#6147F0" d="M41 20 H42 V24 H41 V25 H40 V26 H39 V24 H38 V22 H39 V21 H41 Z" />
+        <path id="orbit-tone-12" fill="#6E3EEC" d="M43 18 H45 V20 H46 V21 H45 V22 H44 V23 H43 V24 H42 V19 H43 Z" />
+        <path id="orbit-tone-13" fill="#7B35E8" d="M42 12 H45 V13 H47 V15 H48 V18 H47 V20 H45 V18 H44 V17 H45 V14 H44 V13 H42 Z" />
+      </g>
+    </g>
+    <g id="wordmark" transform="translate(68 16) scale(2)" fill="#000000">
+      <g id="glyph-e" transform="translate(0 0)">
+        <path id="letter-e" d="M2 0 H6 V1 H7 V2 H8 V6 H2 V7 H3 V8 H5 V7 H8 V8 H7 V9 H6 V10 H2 V9 H1 V8 H0 V2 H1 V1 H2 Z M3 2 V3 H2 V4 H6 V3 H5 V2 Z" />
+      </g>
+      <g id="glyph-n" transform="translate(10 0)">
+        <path id="letter-n" d="M0 0 H2 V1 H3 V0 H6 V1 H8 V3 H9 V10 H7 V3 H6 V2 H4 V3 H3 V4 H2 V10 H0 Z" />
+      </g>
+      <g id="glyph-c" transform="translate(21 0)">
+        <path id="letter-c" d="M3 0 H7 V1 H8 V2 H9 V4 H7 V3 H6 V2 H4 V3 H3 V4 H2 V7 H3 V8 H6 V7 H7 V6 H9 V8 H8 V9 H7 V10 H3 V9 H1 V7 H0 V3 H1 V2 H2 V1 H3 Z" />
+      </g>
+      <g id="glyph-o" transform="translate(32 0)">
+        <path id="letter-o" d="M2 0 H6 V1 H7 V2 H8 V8 H7 V9 H6 V10 H2 V9 H1 V8 H0 V2 H1 V1 H2 Z M3 2 V3 H2 V7 H3 V8 H5 V7 H6 V3 H5 V2 Z" />
+      </g>
+    </g>
+  </g>
+</svg>
