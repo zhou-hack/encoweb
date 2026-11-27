@@ -11,6 +11,8 @@ npm run dev
 
 生产构建：`npm run build`。
 
+构建后的 `dist/` 是完整静态站点，包含页面、字体、图片和脱敏视频，可直接托管，不需要 Node.js 服务。无需把 `dist/` 提交到 Git。
+
 ## 页面内容
 
 - 首屏逐词与旋转文字动效，悬浮日程、快递和待办卡片，支持鼠标分层视差。
@@ -27,6 +29,18 @@ npm run dev
 替换 `public/media/enco-film.mp4`，并根据新影片调整 `src/main.jsx` 中的 `chapters` 时间与界面文案。现有展示片长为 02:21。
 
 影片使用脱敏版的网页压缩副本，时长 02:21。
+
+## Cloudflare Pages
+
+最快的方式是 **Direct Upload**：在 Cloudflare Pages 创建项目后，直接上传本地 `dist/` 目录，不需要连接 GitHub。
+
+后续连接 GitHub 自动部署时，使用：
+
+| 设置 | 值 |
+| --- | --- |
+| 构建命令 | `npm ci && npm run build` |
+| 构建输出目录 | `dist` |
+| Node.js 版本 | `24` |
 
 ## GitHub Pages
 
