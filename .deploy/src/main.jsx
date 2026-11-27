@@ -631,17 +631,21 @@ function Film({ videoRef, onReady, onWatch, hasStarted, setHasStarted }) {
           aria-label="enco 产品宣传片，时长 2 分 21 秒"
           onLoadedMetadata={onReady}
           onPlay={() => { setIsPlaying(true); setHasStarted(true); setError(''); }}
+          onPlaying={() => setHasStarted(true)}
           onPause={() => setIsPlaying(false)}
+          onSeeking={() => setHasStarted(true)}
           onEnded={() => { setIsPlaying(false); setHasStarted(false); }}
           onTimeUpdate={handleTimeUpdate}
           onError={() => setError('影片暂时无法加载，请刷新页面后重试。')}
         />
         {!hasStarted && (
-          <button className="film-cover" onClick={() => onWatch(0)} aria-label="播放 enco 完整产品影片">
+          <div className="film-cover">
             <span className="film-cover-top"><span>enco / 产品影片</span><span>02:21</span></span>
-            <span className="film-play"><Play size={28} fill="currentColor" /></span>
+            <button className="film-play" onClick={() => onWatch(0)} aria-label="播放 enco 完整产品影片">
+              <Play size={28} fill="currentColor" />
+            </button>
             <span className="film-cover-title">Campus life, in sync.</span>
-          </button>
+          </div>
         )}
       </div>
       {error && <p className="film-error" role="alert">{error}</p>}
